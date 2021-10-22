@@ -11,3 +11,5 @@ Run `npm install` in the root folder
 * `npm test` to run tests with test coverage
 
 App will be available on `http:\\localhost:3000`
+
+This React application was generated with create-react-app. React 17.0.2 version.
