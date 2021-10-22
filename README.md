@@ -6,7 +6,7 @@ ReactJS app to display repos from my GitHub account using GraphQL. Seach and pag
 
 Run `npm install` in the root folder
 
-* `npm build` to build the application in the production mode
+* `npm run build` to build the application in the production mode
 * `npm start` to start server and run application locally
 * `npm test` to run tests with test coverage
 
